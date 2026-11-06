@@ -2,7 +2,7 @@
 
 ## Project overview
 
-This Python project explores how sea urchin populations and kelp abundance might change over time, and how volunteer divers removing sea urchins could influence those changes. It compares two hypothetical scenarios: one without diver removal and one with volunteer divers removing a percentage of sea urchins each year.
+This project explores how sea urchin populations and kelp abundance might change over time, and how volunteer divers removing sea urchins could influence those changes. It compares two hypothetical scenarios: one without diver removal and one with volunteer divers removing a percentage of sea urchins each year.
 
 Kelp forests provide habitat for many marine organisms, while sea urchins graze on kelp. The simulation is intended as an educational example of how population dynamics, grazing, and restoration efforts can be represented with a computational model. **It is not a prediction of actual kelp forest recovery or a model calibrated to field data.**
 
